@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="tv_choose_town">Меню выбора города</string>
+    <string name="you_choose">Вы выбрали:</string>
+
+    <string-array name="towns">
+        <item>Nothing selected</item>
+        <item>Oldenburg</item>
+        <item>Farel</item>
+        <item>Wilhemshaven</item>
+        <item>Bremen</item>
+        <item>Hude</item>
+        <item>Stuttgart</item>
+        <item>Berlin</item>
+        <item>Dresden</item>
+        <item>Frankfurt</item>
+        <item>Koln</item>
+    </string-array>
+</resources>
